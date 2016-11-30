@@ -1,0 +1,11 @@
+{
+  "author":"xt",
+  "name":"censorify",
+  "version":"0.1.1",
+  "description": "cendors words out of text",
+  "main": "censortext",
+  "dependencies": {},
+  "engines": {
+    "node":"*"
+  }
+}
